@@ -40,6 +40,7 @@ public class Player {
 
     public String getDatumzeit() {
         String datumzeit1 = datumzeit.format(dnow);
+        System.out.println("");
         return datumzeit1;
     }
 
