@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class Player {
 
-    //TODO Emin: Model um erreichte Punkte und ein Spieldatum+Uhrzeit erweitern
+    //TODO Emin: Model um erreichte Punkte und ein Spieldatum+Uhrzeit erweitern Edit: Fertig
 
     private String name;
     private int level;
